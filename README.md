@@ -1,2 +1,2 @@
 # TicTacToe
-The simple X-O game
+The simple Tic-Tac-Toe game developed using C++.
