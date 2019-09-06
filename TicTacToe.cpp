@@ -35,8 +35,8 @@ void map()
 		{
 			if(i==10)
 				a[10 + j*width]=-1;
-		   else if(i==20)
-				a[20 + j*width]=-1;
+		   else if(i==30)
+				a[30 + j*width]=-1;
             if(j==4)
                 a[i + 4*width]=-2;
             else if(j==8)
